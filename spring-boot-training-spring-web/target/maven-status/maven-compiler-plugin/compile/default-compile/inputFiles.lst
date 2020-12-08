@@ -1,0 +1,17 @@
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\dto\mapper\CompanyMapper.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\service\CompanyServiceImpl.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\SpringBootTrainingApplication.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\dto\InternDto.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\controller\CompanyController.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\service\InternServiceImpl.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\dto\mapper\InternMapper.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\persistence\dao\InternRepository.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\persistence\entity\Company.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\persistence\entity\Intern.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\dto\CompanyDto.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\service\InternService.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\config\CrossOriginConfig.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\controller\InternController.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\service\CompanyService.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\persistence\dao\CompanyRepository.java
+C:\Users\dan.goia\Documents\git_projects\intern_spring_web\spring-boot-training-spring-web\src\main\java\eu\accesa\springboottraining\security\CustomWebSecurityConfigurerAdapter.java
